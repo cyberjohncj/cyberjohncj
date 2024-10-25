@@ -1,10 +1,7 @@
 # cyberjohncj
 
 - 👋 Hi, I’m @cyberjohncj
-
-# My github:
-Python stuff
-
+  
 # About me:
   * Pronouns: He / Him
 # Contact me:
