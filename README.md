@@ -1,8 +1,12 @@
 # cyberjohncj
 
-- 👋 Hi, I’m @cyberjohncj
-- 💻 I’m interested in technology and programming!
-- 🌱 I’m currently working toward a networking certification from packet tracer and Python programming.
-- 💞️ I’m looking to collaborate on any type of project!
-- 📫 How to reach me: Gmail: johncj63113@gmail.com Discord: jcybers
-- 😄 Pronouns: He / Him
+- 👋 Hi, I’m @cyberjohncj and i most
+
+# My github:
+I may or may not have repos that intrest you currently. I only know how to program in Python, but who knows, that may change in the future!
+
+# About me:
+  * Pronouns: He / Him
+# Contact me:
+  * Gmail: johncj63113@gmail.com
+  * Discord: jcybers
