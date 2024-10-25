@@ -1,9 +1,9 @@
 # cyberjohncj
 
-- 👋 Hi, I’m @cyberjohncj and i most
+- 👋 Hi, I’m @cyberjohncj
 
 # My github:
-I may or may not have repos that intrest you currently. I only know how to program in Python, but who knows, that may change in the future!
+Python stuff
 
 # About me:
   * Pronouns: He / Him
