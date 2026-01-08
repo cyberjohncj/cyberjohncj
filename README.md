@@ -1,8 +1,8 @@
-# cyberjohncj
+# netjcj
 
-- 👋 Hi, I’m @cyberjohncj
+- 👋 Hi, I’m @netjcj
   
 # About me:
   * Pronouns: He / Him
 # Contact me:
-  * Discord: jcybers
+  * Discord: netjcj
